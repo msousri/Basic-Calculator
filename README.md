@@ -4,7 +4,7 @@ A calculator concept built around a simple question: what if a calculator rememb
 
 ## Concept
 
-Most calculator UIs are a flat grid of buttons with a single-line display — functional, but forgettable. Tally borrows from a real physical object: the adding machine, where every calculation prints onto a paper tape you can scroll back through.
+Most calculator UIs are a flat grid of buttons with a single-line display functional, but forgettable. Tally borrows from a real physical object: the adding machine, where every calculation prints onto a paper tape you can scroll back through.
 
 That gave the design its throughline:
 - A **scrolling paper tape** at the top logs every calculation as it happens, styled like an aged receipt
@@ -27,7 +27,7 @@ Plain HTML, CSS, and JavaScript — no frameworks, no build step. One file, open
 
 ## Design process
 
-Started from the question "what does a calculator's *history* look like if you take it seriously?" rather than styling a default grid. The paper tape became the signature element early, and everything else — palette, type, key shadows — was chosen to support that one idea rather than add competing flourishes.
+Started from the question "what does a calculator's *history* look like if you take it seriously?" rather than styling a default grid. The paper tape became the signature element early, and everything else palette, type, key shadows was chosen to support that one idea rather than add competing flourishes.
 
 ---
 
