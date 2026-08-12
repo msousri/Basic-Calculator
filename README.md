@@ -1,4 +1,4 @@
-# Tally — Paper Tape Calculator
+# Paper Tape Calculator
 
 A calculator concept built around a simple question: what if a calculator remembered what you asked it, instead of just showing one number at a time?
 
