@@ -24,15 +24,6 @@ That gave the design its throughline:
 
 Plain HTML, CSS, and JavaScript — no frameworks, no build step. One file, open it anywhere.
 
-## Run it locally
-
-Clone the repo and open `index.html` in any browser:
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-open index.html
-```
 
 ## Design process
 
