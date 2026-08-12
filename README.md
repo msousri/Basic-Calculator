@@ -10,7 +10,7 @@ That gave the design its throughline:
 - A **scrolling paper tape** at the top logs every calculation as it happens, styled like an aged receipt
 - A **monospace type treatment** (JetBrains Mono) for all numbers, to sell the "printed" feel
 - **Physical, tactile keys** with pressed-state shadows instead of flat buttons
-- A restrained palette — charcoal body, warm paper tape, amber for operators, teal for equals — so the one signature idea (the tape) does the work, without extra decoration competing for attention
+- A restrained palette — charcoal body, warm paper tape, amber for operators, teal for equals so the one signature idea (the tape) does the work, without extra decoration competing for attention
 
 ## Features
 
@@ -27,8 +27,8 @@ Plain HTML, CSS, and JavaScript — no frameworks, no build step. One file, open
 
 ## Design process
 
-Started from the question "what does a calculator's *history* look like if you take it seriously?" rather than styling a default grid. The paper tape became the signature element early, and everything else palette, type, key shadows was chosen to support that one idea rather than add competing flourishes.
+Started from the question "what does a calculator's *history* look like if you take it seriously?" rather than styling a default grid. The paper tape became the signature element early, and everything else palette, type, key shadows was chosen to support that one idea.
 
 ---
 
-Developed by **Sourish** :)
+Thank you for reading :)
